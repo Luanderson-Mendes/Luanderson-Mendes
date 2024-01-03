@@ -45,9 +45,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/luanderson-mendes/" target="about-blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/luanderson-mendes/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   
-  <a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://discord.com/users/517071325819305995/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  /></a>
 </div>
 
