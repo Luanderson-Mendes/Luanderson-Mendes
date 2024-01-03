@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuandersonMendes/LuandersonMendes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Luanderson-Mendes/Luanderson-Mendes/output/snake.svg" alt="Snake animation" />
 
 ###
