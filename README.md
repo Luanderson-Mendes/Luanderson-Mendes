@@ -35,7 +35,6 @@
   <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40px" height="40px" target="_blank"/></a>
-  <a href="https://krita.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://i.imgur.com/2jOR1ua.png" width="40px" height="40px" target="_blank"/></a>
 </div> 
