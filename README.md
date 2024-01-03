@@ -35,7 +35,6 @@
   <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40px" height="40px" target="_blank"/></a>
-  <a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40px" height="40px" target="_blank"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://i.imgur.com/2jOR1ua.png" width="40px" height="40px" target="_blank"/></a>
 </div> 
   
@@ -45,5 +44,5 @@
     <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
    
   <a href="https://www.linkedin.com/in/luanderson-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luandersonpmendes@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@luanderson.dev.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/517071325819305995/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
