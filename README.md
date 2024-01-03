@@ -1,6 +1,6 @@
-<div align="left">
+<!-- <div align="left">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+</div> -->
 
 ###
 
